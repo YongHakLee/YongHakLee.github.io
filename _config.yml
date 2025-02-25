@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: YongHakLee # the main title
 
-tagline: 끊임없는 발전을 추구하는 사람 # it will display as the subtitle
+tagline: 끊임없이 발전하기 위한 기록 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   끊임없이 발전하기 위한 기록
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/assets/img/g/profile.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
